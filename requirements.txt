@@ -1,0 +1,11 @@
+steampy>=1.0.0
+python-dotenv>=0.19.0
+schedule>=1.2.0
+asyncio>=3.4.3
+pathlib>=1.0.1
+requests>=2.28.0
+aiofiles>=22.1.0
+fastapi>=0.95.0
+uvicorn[standard]>=0.21.0
+pydantic>=1.10.0
+websockets>=11.0.0 
